@@ -17,7 +17,6 @@ We are **eMenu Teams**, a passionate group of developers dedicated to revolution
 ### Get in Touch
 - **Website**: [http://emenuteam.top/](http://emenuteam.top/)
 - **Contact Us**: [Email Us](mailto:emenuteamtop@gmail.com)
-- **Follow Us**: [LinkedIn](#) | [Twitter](#)
 
 ### Join Us
 We’re always looking for talented developers and designers to join our team. If you’re passionate about the intersection of technology and dining, we’d love to hear from you!
